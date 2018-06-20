@@ -25,7 +25,5 @@ Transfer Learning of the skin lesion images with a SVM classifier.
   - functions for CNN codes extraction from Alexnet
 - **merge_labels.py**
   - merging labels from the training and test datasets
-- **plot_cm.py**
-  - plots confusion matrix
 - **resize_images.py**
   - reduces image size to fit AlexNet requirements (227x227x3)
