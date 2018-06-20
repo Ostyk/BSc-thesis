@@ -1,0 +1,9 @@
+pandas==0.22.0
+matplotlib==2.2.0
+scipy==1.0.0
+h5py==2.7.1
+tensorflow==1.6.0
+uncertainties==3.0.2
+numpy==1.14.2
+Pillow==5.1.0
+scikit_learn==0.19.1
